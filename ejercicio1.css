@@ -1,0 +1,18 @@
+#cuerpo{
+    display: inline-flex
+}
+#azul{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+#rojo{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+#verde{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+}
